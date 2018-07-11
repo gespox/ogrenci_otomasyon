@@ -1,0 +1,13 @@
+158 cafer aslan 1 mimarlik
+3 duygu karatavuk 3 elektronik
+12 Dilan Okan 5 Sosyal
+15 sefa Çeyiz 1 inşaat
+17 sedat Özkan 2 Hemşirelik
+16 Selman Orhan 3 Makine
+215 furkan aydin 3 bilgisayar
+321 cemal kaya 2 hemsirelik
+147 deniz polat 2 bilgisayar
+258 mustafa at 3 mimarlik
+369 derya ala 2 edebiyat
+456 aslan demir 5 tip
+789 esin hayta 1 bilgisayar
